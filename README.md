@@ -20,6 +20,6 @@ Implementation of the project in detail in the following segments:
 
 
 
-![](https://www.mediafire.com/view/ubpw9kh42oojaof/Mini-Project-PPT.gif)
+![](https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-/blob/main/Gif.gif)
 
 See also [Youtube Link For Video Demo](https://youtu.be/M4vS_2_sTk4)
