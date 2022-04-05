@@ -11,3 +11,12 @@ The second round of HackCoVIT2022 <br><br>
 4. Screenshots of the project - <br>
 5. Step-by-step installation guide - <br>
 6. YouTube video link - [x] - https://youtu.be/M4vS_2_sTk4<br>
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
