@@ -12,3 +12,8 @@ The second round of HackCoVIT2022 <br><br>
 - [x] Step-by-step installation guide - https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-/blob/main/Step-by-step%20installation%20guide.png<br>
 - [x] YouTube video link - https://youtu.be/M4vS_2_sTk4<br>
  
+Implementation of the project in detail in the following segments:
+<p align="center">
+  <img src="https://www.mediafire.com/view/cib0w08gh36z45e/Steps.jpg/file" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
