@@ -5,7 +5,7 @@ The second round of HackCoVIT2022 <br><br>
 2. Link to the GitHub repository of the project.<br>
 <br><br>
 
-1. The ‘README.md’ file of the GitHub repository should explain the implementation of the project in detail in the following segments:<br>
+1. The ‘README.md’ file - :<br>
 2. Introduction - <br>
 3. Modules implemented and their explanation - <br>
 4. Screenshots of the project - <br>
