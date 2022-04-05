@@ -17,6 +17,6 @@ Implementation of the project in detail in the following segments:
   <img src="https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-/blob/main/Step-by-step%20installation%20guide.png" width="350" title="hover text">
 </p>
 
-![](https://youtu.be/M4vS_2_sTk4)
+![](https://www.mediafire.com/view/ubpw9kh42oojaof/Mini-Project-PPT.gif/file)
 
 See also [Youtube Link For Video Demo](https://youtu.be/M4vS_2_sTk4)
