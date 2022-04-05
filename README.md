@@ -14,6 +14,6 @@ The second round of HackCoVIT2022 <br><br>
  
 Implementation of the project in detail in the following segments:
 <p align="center">
-  <img src="https://www.mediafire.com/view/cib0w08gh36z45e/Steps.jpg/file" width="350" title="hover text">
+  <img src="https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-/blob/main/Step-by-step%20installation%20guide.png" width="350" title="hover text">
   <img src="https://www.mediafire.com/view/cib0w08gh36z45e/Steps.jpg/file" width="350" alt="accessibility text">
 </p>
