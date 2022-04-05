@@ -18,8 +18,6 @@ Implementation of the project in detail in the following segments:
 </p>
 
 
-![](https://www.mediafire.com/view/ubpw9kh42oojaof/Mini-Project-PPT.gif)
-
 
 
 ![](https://www.mediafire.com/view/ubpw9kh42oojaof/Mini-Project-PPT.gif)
