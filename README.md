@@ -10,8 +10,8 @@ The second round of HackCoVIT2022 <br><br>
 3. Modules implemented and their explanation - <br>
 4. Screenshots of the project - <br>
 5. Step-by-step installation guide - <br>
-6. YouTube video link -[x] - https://youtu.be/M4vS_2_sTk4<br>
-- [x]
+- [x] YouTube video link -[x] - https://youtu.be/M4vS_2_sTk4<br>
+ 
 
 
 - [ ] Mercury
