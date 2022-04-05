@@ -17,13 +17,6 @@ Implementation of the project in detail in the following segments:
   <img src="https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-/blob/main/Step-by-step%20installation%20guide.png" width="350" title="hover text">
 </p>
 
-![](http://damien.pobel.fr/images/youtube-video-github.gif)
+![](https://youtu.be/M4vS_2_sTk4)
 
-See also [Embed a Youtube video in Github markdown](https://youtu.be/M4vS_2_sTk4)
-
-
-<iframe width="560" height="315"
-src="https://youtu.be/M4vS_2_sTk4" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+See also [Youtube Link For Video Demo](https://youtu.be/M4vS_2_sTk4)
