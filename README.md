@@ -1,5 +1,11 @@
 #  	Real-time-Proximity-AND-health-monitoring-cum-alert-system-with-ML-Enabled-Predicting-Model<br>
  <br><br>
+Description	<br> To design a prototype with an ML-Enabled application to monitor Kids, Senior citizens, especially differently-abled individuals, or anyone who needs supervision in such a way that it can alarm the concerned person and use the acquisition of data for further predicting the condition of similar patients.<br>
+Hardware used	: ESP32(Wi-Fi module), DHT11(Temperature and humidity sensor), MAX30102(SpO2 and Heart Rate monitor), ADXL345(Accelerometer), HC42(Bluetooth Low-Energy).<br>
+Back end	 : MySQL.<br>
+Deep Network used	: VGG-16.<br>
+Software used	:Android studio (Flutter).<br>
+Tool		: Arduino IDE 1.8.15.<br><br>
 
 - [x] 1. Unlisted YouTube link of a video explaining the project along with a demo - [Link](https://youtu.be/M4vS_2_sTk4)<br>
 - [x] 2. Link to the GitHub repository of the project - [Repo](https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-.git)<br>
