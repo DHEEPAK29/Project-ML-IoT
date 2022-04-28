@@ -1,4 +1,4 @@
-# HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G
+#  	REAL-TIME PROXIMITY AND HEALTH MONITORING-cum-ALERT SYSTEM WITH ML-ENABLED PREDICTING MODEL<br>
 The second round of HackCoVIT2022 <br><br>
 
 - [x] 1. Unlisted YouTube link of a video explaining the project along with a demo - [Link](https://youtu.be/M4vS_2_sTk4)<br>
