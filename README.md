@@ -80,11 +80,11 @@ iii): Room Temperature /Room Humidity is undesirable. iv)Motion (For necessary O
 ## VII.	BLOCK DIAGRAM <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928053-784debb4-4411-4293-8f0b-1bad7aa98a82.png)<br>
 
-Fig.1 Prototype with patient
+Fig.1 Prototype with patient<br>
 The block diagram depicted in figure 1 shows the prototype which is tied to the patient/ Person under supervision. This part collects the data for health parameter observation. And this acts as the master and is in constant communication with the slave device i.e., Prototype placed by the supervisor in fig.2. <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928069-123bd3a0-c81c-47aa-94b7-23b98d818ef0.png)<br>
 
-Fig.2 Prototype placed by supervisor
+Fig.2 Prototype placed by supervisor<br>
 The block diagram depicted in figure 2 shows the prototype which is placed in proximity to the patient/ Person under supervision. This part collects the data for Ambience prediction and movement prediction. This acts as a slave device to send the acknowledgment to the master.
 And as a whole, the two parts are connected to the internet such that the data is stored for monitoring, alerting, and processing.
 VIII.	PROTOTYPE DEVELOPMENT <br>
@@ -97,7 +97,7 @@ Fig.4 Prototype with patient<br>
 ## IX.	DEEP LEARNING PREDICTION <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928122-6da449db-07fb-4572-b6cb-e41e18ab05d1.png)<br>
 
-Fig.5 Patient Database
+Fig.5 Patient Database<br>
 The data which are collected while monitoring the patient is stored in a database (SQL/ Firebase) and these data are further processed with a Machine learning model to predict the condition of another patient with similar ailments and provide the result of what would be the survival rate, the health condition in the process of undergoing treatment, and possible movement of the person under test.
 ## X.	CONCLUSIONS
 Thus, A technology-based solution for Kids, Senior citizens, especially differently-abled individuals, or anyone who needs supervision is developed in such a way that it can alarm the concerned person in case the person who needs supervision is crossing a specified boundary or his/her health condition turns adverse. The solution is centered around the field of Internet of Technologies (IoT) and Deep Learning (DL), and the scope is viable in the domain of Smart Home, Security and Authentication, Automation, Data Science and Machine Learning, Data analytics.
