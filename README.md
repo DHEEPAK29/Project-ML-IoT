@@ -35,7 +35,6 @@ See also [Youtube Link For Project Demonstration](https://youtu.be/M4vS_2_sTk4)
 - [x] CATEGORIZATION OF CASES<br>
 - [x] PROTOTYPE DESIGN<br>
 - [x] PARAMETER BASED ALERT CASES <br>
-- [x] BLOCK DIAGRAM <br>
 - [x] PROTOTYPE DEVELOPMENT <br>
 - [x] DEEP LEARNING PREDICTION <br>
 - [x] CONCLUSIONS<br>
@@ -73,32 +72,22 @@ i) Moves above the set distance.
 ii) SpO2 /Heart Rate/Body Temperature is undesirable. 
 iii): Room Temperature /Room Humidity is undesirable. iv)Motion (For necessary Observations).
 
-## VII.	BLOCK DIAGRAM <br>
- ![image](https://user-images.githubusercontent.com/83426515/165928053-784debb4-4411-4293-8f0b-1bad7aa98a82.png)<br>
-
-Fig.1 Prototype with patient<br>
-The block diagram depicted in figure 1 shows the prototype which is tied to the patient/ Person under supervision. This part collects the data for health parameter observation. And this acts as the master and is in constant communication with the slave device i.e., Prototype placed by the supervisor in fig.2. <br>
- ![image](https://user-images.githubusercontent.com/83426515/165928069-123bd3a0-c81c-47aa-94b7-23b98d818ef0.png)<br>
-
-Fig.2 Prototype placed by supervisor<br>
-The block diagram depicted in figure 2 shows the prototype which is placed in proximity to the patient/ Person under supervision. This part collects the data for Ambience prediction and movement prediction. This acts as a slave device to send the acknowledgment to the master.
-And as a whole, the two parts are connected to the internet such that the data is stored for monitoring, alerting, and processing.<br>
-## VIII.	PROTOTYPE DEVELOPMENT <br>
+## VII.	PROTOTYPE DEVELOPMENT <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928089-c33d05c4-57f6-4751-ac8a-806516597e0c.png)<br>
 
 Fig.3 Prototype placed by supervisor<br>
   ![image](https://user-images.githubusercontent.com/83426515/165928102-9aed7824-381d-4ef1-a0c5-ba690c45cf5b.png)<br>
 
 Fig.4 Prototype with patient<br>
-## IX.	DEEP LEARNING PREDICTION <br>
+## VIII.	DEEP LEARNING PREDICTION <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928122-6da449db-07fb-4572-b6cb-e41e18ab05d1.png)<br>
 
 Fig.5 Patient Database<br>
 The data which are collected while monitoring the patient is stored in a database (SQL/ Firebase) and these data are further processed with a Machine learning model to predict the condition of another patient with similar ailments and provide the result of what would be the survival rate, the health condition in the process of undergoing treatment, and possible movement of the person under test.
-## X.	CONCLUSIONS
+## IX.	CONCLUSIONS
 Thus, A technology-based solution for Kids, Senior citizens, especially differently-abled individuals, or anyone who needs supervision is developed in such a way that it can alarm the concerned person in case the person who needs supervision is crossing a specified boundary or his/her health condition turns adverse. The solution is centered around the field of Internet of Technologies (IoT) and Deep Learning (DL), and the scope is viable in the domain of Smart Home, Security and Authentication, Automation, Data Science and Machine Learning, Data analytics.
 
-## XII.	REFERENCES
+## X.	REFERENCES
 [1]	Hu, F., Xie, D., & Shen, S. On the application of the internet of things in the field of medical and health care. In Green Computing and Communications (GreenCom), 2013 IEEE and Internet of Things (iThings/CPSCom), IEEE International Conference on and IEEE Cyber, Physical and Social Computing (pp. 2053-2058). IEEE, 2013.<br>
 [2]	Who, J., & Consultation, F. E. Diet, nutrition and the prevention of chronic diseases. World Health Organ Tech Rep Ser, 916(i-viii),2003.<br>
 [3]	Swan, M. Sensor mania! the internet of things, wearable computing, objective metrics, and the quantified self-2.0. Journal of Sensor and Actuator Networks, 1(3), 217-253, 2012<br>
