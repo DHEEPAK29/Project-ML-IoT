@@ -48,13 +48,13 @@ See also [Youtube Link For Project Demonstration](https://youtu.be/M4vS_2_sTk4)
 ## ABSTRACT
 The main objective of this project is to help Doctors (or) Supervisors remotely monitor the Condition of the ambiance, Health condition, and the proximity from the set location of a Patient (or) Person under observation. This project imbibes the concept of the Internet of Things (IoT) and so the data is accessible seamlessly even if the supervisor is remote. Using range detection techniques and health parameters, Manipulations are done in the backend such that the alerts are notified based on set conditions to the respective person in case of emergency, we can conclusively predict the condition of a Patient (or) Person under observation remotely and accurately. Further, the data received from a patient is integrated into the database for analytics in Machine Learning (ML) to predict the reaction of another patient who suffers from the same disease or condition in the future. In addition, the product is feasible to be designed as a Handy and User-Friendly prototype, Cost-Efficient model, Less power-consuming mechanism, and Alterable Design.
 
-# I.	INTRODUCTION
+## I.	INTRODUCTION
 In the health sector, Because of its direct impact on life, Doctors need to follow a lot of precautions, thereby abiding by safety measures is obvious. Taking this as motivation, Frequent problems that Hospitals face is during the observation of a patient (or) monitoring the health status of the patients regularly. The possibilities are resolved into three cases and the solution is envisioned as a smart yet affordable one. The plan is to develop a technology-based device for Kids, Senior citizens, especially differently-abled individuals, or anyone who needs supervision in such a way that it can alarm the concerned person in case the person who needs supervision is crossing a specified boundary or his/her health condition turns adverse. The solution is centered around the field of Internet of Technologies (IoT) and Machine Learning (ML) and the scope is viable in the domain of Smart Home, Security and Authentication, Automation, Data Science and Machine Learning, Data analytics. 
 
-# II.	  RESEARCH AREA
+## II.	  RESEARCH AREA
 The research area of this project concerns is healthcare and smart automation. The domain of technologies employed for this project is the Internet of things (IoT) and Deep Learning to facilitate the user with a sophisticated model/Prototype, accurate prediction for their respective application. The possibilities/ Problematic factors are resolved into three cases and the solution is envisioned as a smart yet affordable model which hospitals and people opt to employ for their wards or in their homes. The key idea is to develop a technology-based solution for Kids, Senior citizens, especially differently-abled individuals, or anyone who needs supervision.
 
-# III.	MOTIVATION AND SIGNIFICANCE OF WORK
+## III.	MOTIVATION AND SIGNIFICANCE OF WORK
 The motivations were observed from multiple difficulties which are being faced by hospitals on daily basis. When planning, the cases have been resolved for two different applications. They are, 
 
 A) Hospital Application 
@@ -66,18 +66,18 @@ B)	 Home Applications
 i.	 Aged people definitely need strict supervision.
 ii. Monitoring Babies while WFH became a tedious task to many housewives in recent days.
 
-# IV.	CATEGORIZATION OF CASES
+## IV.	CATEGORIZATION OF CASES
 By Research, the patients are categorized into two types. (A) Immobile patients, (B) Mobile and mentally unstable patients. The mandatory services for both (A)and (B) patients are SpO2 cum Heart rate monitoring, Accelerometer Module for motion capture, Temperature, and Humidity Sensor for monitoring Room Condition. The purpose of Bluetooth exclusively lies in keeping track of limits set to type (B) users as there are possibilities for them to be missing.
-# V.	PROTOTYPE DESIGN
+## V.	PROTOTYPE DESIGN
 The prototype design structure is split into three parts. The prototype (Raspberry pi/ ESP32) with the patient under observation(i), Prototype fixed by the Doctor within the boundary (in proximity to the patient) (ii), A monitoring device (i.e., PC/iOS/Android Application) (iii). SpO2 sensor cum Heart rate sensor and Bluetooth are interfaced with (i)module, Accelerometer Module for motion capture, Temperature, and Humidity Sensor for monitoring Room Condition and Bluetooth are interfaced with (ii)module. Both the split prototypes are connected to the user Internet and data is received simultaneously in the USER END (iii). The dimension of working is as a whole receiving data given by the sensors and is displayed for alarming the doctors and for boundary monitoring, we use Bluetooth signal as a key by sensing the distance between the Bluetooth modules of the prototype (i) and (ii).
 
-# VI.	 PARAMETER BASED ALERT CASES 
+## VI.	 PARAMETER BASED ALERT CASES 
 The alert cases that the supervisor receives are when the person under supervision/ Patient 
 i) Moves above the set distance. 
 ii) SpO2 /Heart Rate/Body Temperature is undesirable. 
 iii): Room Temperature /Room Humidity is undesirable. iv)Motion (For necessary Observations).
 
-# VII.	BLOCK DIAGRAM <br>
+## VII.	BLOCK DIAGRAM <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928053-784debb4-4411-4293-8f0b-1bad7aa98a82.png)<br>
 
 Fig.1 Prototype with patient
@@ -94,15 +94,15 @@ Fig.3 Prototype placed by supervisor<br>
   ![image](https://user-images.githubusercontent.com/83426515/165928102-9aed7824-381d-4ef1-a0c5-ba690c45cf5b.png)<br>
 
 Fig.4 Prototype with patient<br>
-# IX.	DEEP LEARNING PREDICTION <br>
+## IX.	DEEP LEARNING PREDICTION <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928122-6da449db-07fb-4572-b6cb-e41e18ab05d1.png)<br>
 
 Fig.5 Patient Database
 The data which are collected while monitoring the patient is stored in a database (SQL/ Firebase) and these data are further processed with a Machine learning model to predict the condition of another patient with similar ailments and provide the result of what would be the survival rate, the health condition in the process of undergoing treatment, and possible movement of the person under test.
-# X.	CONCLUSIONS
+## X.	CONCLUSIONS
 Thus, A technology-based solution for Kids, Senior citizens, especially differently-abled individuals, or anyone who needs supervision is developed in such a way that it can alarm the concerned person in case the person who needs supervision is crossing a specified boundary or his/her health condition turns adverse. The solution is centered around the field of Internet of Technologies (IoT) and Deep Learning (DL), and the scope is viable in the domain of Smart Home, Security and Authentication, Automation, Data Science and Machine Learning, Data analytics.
 
-# XII.	REFERENCES
+## XII.	REFERENCES
 [1]	Hu, F., Xie, D., & Shen, S. On the application of the internet of things in the field of medical and health care. In Green Computing and Communications (GreenCom), 2013 IEEE and Internet of Things (iThings/CPSCom), IEEE International Conference on and IEEE Cyber, Physical and Social Computing (pp. 2053-2058). IEEE, 2013.
 [2]	Who, J., & Consultation, F. E. Diet, nutrition and the prevention of chronic diseases. World Health Organ Tech Rep Ser, 916(i-viii),2003.
 [3]	Swan, M. Sensor mania! the internet of things, wearable computing, objective metrics, and the quantified self-2.0. Journal of Sensor and Actuator Networks, 1(3), 217-253, 2012
