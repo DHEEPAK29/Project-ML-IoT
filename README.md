@@ -33,17 +33,17 @@ See also [Youtube Link For Project Demonstration](https://youtu.be/M4vS_2_sTk4)
 
 # SYNOPSIS
 - [x] ABSTRACT<br>
-INTRODUCTION<br>
-RESEARCH AREA<br>
-MOTIVATION AND SIGNIFICANCE OF WORK<br>
-CATEGORIZATION OF CASES<br>
-PROTOTYPE DESIGN<br>
-PARAMETER BASED ALERT CASES <br>
-BLOCK DIAGRAM <br>
-PROTOTYPE DEVELOPMENT <br>
-DEEP LEARNING PREDICTION <br>
-CONCLUSIONS<br>
-REFERENCES<br>
+- [x] INTRODUCTION<br>
+- [x] RESEARCH AREA<br>
+- [x] MOTIVATION AND SIGNIFICANCE OF WORK<br>
+- [x] CATEGORIZATION OF CASES<br>
+- [x] PROTOTYPE DESIGN<br>
+- [x] PARAMETER BASED ALERT CASES <br>
+- [x] BLOCK DIAGRAM <br>
+- [x] PROTOTYPE DEVELOPMENT <br>
+- [x] DEEP LEARNING PREDICTION <br>
+- [x] CONCLUSIONS<br>
+- [x] REFERENCES<br>
 
 ## ABSTRACT
 The main objective of this project is to help Doctors (or) Supervisors remotely monitor the Condition of the ambiance, Health condition, and the proximity from the set location of a Patient (or) Person under observation. This project imbibes the concept of the Internet of Things (IoT) and so the data is accessible seamlessly even if the supervisor is remote. Using range detection techniques and health parameters, Manipulations are done in the backend such that the alerts are notified based on set conditions to the respective person in case of emergency, we can conclusively predict the condition of a Patient (or) Person under observation remotely and accurately. Further, the data received from a patient is integrated into the database for analytics in Machine Learning (ML) to predict the reaction of another patient who suffers from the same disease or condition in the future. In addition, the product is feasible to be designed as a Handy and User-Friendly prototype, Cost-Efficient model, Less power-consuming mechanism, and Alterable Design.
