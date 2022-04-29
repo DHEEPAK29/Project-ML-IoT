@@ -32,18 +32,18 @@ Implementation of the project in detail in the following segments:
 See also [Youtube Link For Project Demonstration](https://youtu.be/M4vS_2_sTk4)
 
 # SYNOPSIS
-ABSTRACT
-INTRODUCTION
-RESEARCH AREA
-MOTIVATION AND SIGNIFICANCE OF WORK
-CATEGORIZATION OF CASES
-PROTOTYPE DESIGN
-PARAMETER BASED ALERT CASES 
-BLOCK DIAGRAM 
-PROTOTYPE DEVELOPMENT 
-DEEP LEARNING PREDICTION 
-CONCLUSIONS
-REFERENCES
+ABSTRACT<br>
+INTRODUCTION<br>
+RESEARCH AREA<br>
+MOTIVATION AND SIGNIFICANCE OF WORK<br>
+CATEGORIZATION OF CASES<br>
+PROTOTYPE DESIGN<br>
+PARAMETER BASED ALERT CASES <br>
+BLOCK DIAGRAM <br>
+PROTOTYPE DEVELOPMENT <br>
+DEEP LEARNING PREDICTION <br>
+CONCLUSIONS<br>
+REFERENCES<br>
 
 ## ABSTRACT
 The main objective of this project is to help Doctors (or) Supervisors remotely monitor the Condition of the ambiance, Health condition, and the proximity from the set location of a Patient (or) Person under observation. This project imbibes the concept of the Internet of Things (IoT) and so the data is accessible seamlessly even if the supervisor is remote. Using range detection techniques and health parameters, Manipulations are done in the backend such that the alerts are notified based on set conditions to the respective person in case of emergency, we can conclusively predict the condition of a Patient (or) Person under observation remotely and accurately. Further, the data received from a patient is integrated into the database for analytics in Machine Learning (ML) to predict the reaction of another patient who suffers from the same disease or condition in the future. In addition, the product is feasible to be designed as a Handy and User-Friendly prototype, Cost-Efficient model, Less power-consuming mechanism, and Alterable Design.
@@ -78,24 +78,24 @@ ii) SpO2 /Heart Rate/Body Temperature is undesirable.
 iii): Room Temperature /Room Humidity is undesirable. iv)Motion (For necessary Observations).
 
 # VII.	BLOCK DIAGRAM 
- ![image](https://user-images.githubusercontent.com/83426515/165928053-784debb4-4411-4293-8f0b-1bad7aa98a82.png)
+ ![image](https://user-images.githubusercontent.com/83426515/165928053-784debb4-4411-4293-8f0b-1bad7aa98a82.png)<br>
 
 Fig.1 Prototype with patient
 The block diagram depicted in figure 1 shows the prototype which is tied to the patient/ Person under supervision. This part collects the data for health parameter observation. And this acts as the master and is in constant communication with the slave device i.e., Prototype placed by the supervisor in fig.2. 
- ![image](https://user-images.githubusercontent.com/83426515/165928069-123bd3a0-c81c-47aa-94b7-23b98d818ef0.png)
+ ![image](https://user-images.githubusercontent.com/83426515/165928069-123bd3a0-c81c-47aa-94b7-23b98d818ef0.png)<br>
 
 Fig.2 Prototype placed by supervisor
 The block diagram depicted in figure 2 shows the prototype which is placed in proximity to the patient/ Person under supervision. This part collects the data for Ambience prediction and movement prediction. This acts as a slave device to send the acknowledgment to the master.
 And as a whole, the two parts are connected to the internet such that the data is stored for monitoring, alerting, and processing.
 VIII.	PROTOTYPE DEVELOPMENT 
- ![image](https://user-images.githubusercontent.com/83426515/165928089-c33d05c4-57f6-4751-ac8a-806516597e0c.png)
+ ![image](https://user-images.githubusercontent.com/83426515/165928089-c33d05c4-57f6-4751-ac8a-806516597e0c.png)<br>
 
 Fig.3 Prototype placed by supervisor
-  ![image](https://user-images.githubusercontent.com/83426515/165928102-9aed7824-381d-4ef1-a0c5-ba690c45cf5b.png)
+  ![image](https://user-images.githubusercontent.com/83426515/165928102-9aed7824-381d-4ef1-a0c5-ba690c45cf5b.png)<br>
 
 Fig.4 Prototype with patient
 # IX.	DEEP LEARNING PREDICTION 
- ![image](https://user-images.githubusercontent.com/83426515/165928122-6da449db-07fb-4572-b6cb-e41e18ab05d1.png)
+ ![image](https://user-images.githubusercontent.com/83426515/165928122-6da449db-07fb-4572-b6cb-e41e18ab05d1.png)<br>
 
 Fig.5 Patient Database
 The data which are collected while monitoring the patient is stored in a database (SQL/ Firebase) and these data are further processed with a Machine learning model to predict the condition of another patient with similar ailments and provide the result of what would be the survival rate, the health condition in the process of undergoing treatment, and possible movement of the person under test.
