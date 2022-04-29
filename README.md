@@ -1,7 +1,6 @@
 #  	Real-time-Proximity-AND-health-monitoring-cum-alert-system-with-ML-Enabled-Predicting-Model<br>
- <br>
- 1. Unlisted YouTube link of a video explaining the project along with a demo - [Link](https://youtu.be/M4vS_2_sTk4)<br>
- 2. Link to the GitHub repository of the project - [Repo](https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-.git)<br>
+ 1. Unlisted YouTube link of a video explaining the project along with a demo - [Link](https://youtu.be/M4vS_2_sTk4) <br>
+ 2. Link to the GitHub repository of the project - [Repo](https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-.git)  <br>
 <br><br>
 
 # Implementation of the project in detail <br>
