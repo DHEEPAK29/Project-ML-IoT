@@ -1,7 +1,5 @@
 #  	Real-time-Proximity-AND-health-monitoring-cum-alert-system-with-ML-Enabled-Predicting-Model<br>
- 1. Unlisted YouTube link of a video explaining the project along with a demo - [Link](https://youtu.be/M4vS_2_sTk4) <br>
- 2. Link to the GitHub repository of the project - [Repo](https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-.git)  <br>
-<br><br>
+ YouTube link of a Project with a Detailed demonstration - [Link](https://youtu.be/M4vS_2_sTk4) <br>
 
 # Implementation of the project in detail <br>
 - [x] The ‘README.md’ file  -  [README.md](https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-/blob/main/README.md) <br>
@@ -23,8 +21,6 @@ Implementation of the project in detail in the following segments:
 <p align="center">
   <img src="https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-/blob/main/Step-by-step%20installation%20guide.png" width="350" title="hover text">
 </p>
-
-
 
 ![](https://github.com/DHEEPAK29/HackCoVIT2022_G-DHEEPAK-G-DHEEPAK-G-/blob/main/Gif.gif)
 
@@ -102,10 +98,10 @@ The data which are collected while monitoring the patient is stored in a databas
 Thus, A technology-based solution for Kids, Senior citizens, especially differently-abled individuals, or anyone who needs supervision is developed in such a way that it can alarm the concerned person in case the person who needs supervision is crossing a specified boundary or his/her health condition turns adverse. The solution is centered around the field of Internet of Technologies (IoT) and Deep Learning (DL), and the scope is viable in the domain of Smart Home, Security and Authentication, Automation, Data Science and Machine Learning, Data analytics.
 
 ## XII.	REFERENCES
-[1]	Hu, F., Xie, D., & Shen, S. On the application of the internet of things in the field of medical and health care. In Green Computing and Communications (GreenCom), 2013 IEEE and Internet of Things (iThings/CPSCom), IEEE International Conference on and IEEE Cyber, Physical and Social Computing (pp. 2053-2058). IEEE, 2013.
-[2]	Who, J., & Consultation, F. E. Diet, nutrition and the prevention of chronic diseases. World Health Organ Tech Rep Ser, 916(i-viii),2003.
-[3]	Swan, M. Sensor mania! the internet of things, wearable computing, objective metrics, and the quantified self-2.0. Journal of Sensor and Actuator Networks, 1(3), 217-253, 2012
-[4]	Strollo, S. E., Caserotti, P., Ward, R. E., Glynn, N. W., Goodpaster, B. H., & Strotmeyer, E. S. A review of the relationship between leg power and selected chronic disease in older adults. The journal of nutrition, health & aging, 19(2), 240-248, 2015.
-[5]	Gómez, J., Huete, J. F., Hoyos, O., Perez, L., & Grigori, D. Interaction System based on Internet of Things as Support for Education. Procedia Computer Science, 21, 132-139, 2013
+[1]	Hu, F., Xie, D., & Shen, S. On the application of the internet of things in the field of medical and health care. In Green Computing and Communications (GreenCom), 2013 IEEE and Internet of Things (iThings/CPSCom), IEEE International Conference on and IEEE Cyber, Physical and Social Computing (pp. 2053-2058). IEEE, 2013.<br>
+[2]	Who, J., & Consultation, F. E. Diet, nutrition and the prevention of chronic diseases. World Health Organ Tech Rep Ser, 916(i-viii),2003.<br>
+[3]	Swan, M. Sensor mania! the internet of things, wearable computing, objective metrics, and the quantified self-2.0. Journal of Sensor and Actuator Networks, 1(3), 217-253, 2012<br>
+[4]	Strollo, S. E., Caserotti, P., Ward, R. E., Glynn, N. W., Goodpaster, B. H., & Strotmeyer, E. S. A review of the relationship between leg power and selected chronic disease in older adults. The journal of nutrition, health & aging, 19(2), 240-248, 2015.<br>
+[5]	Gómez, J., Huete, J. F., Hoyos, O., Perez, L., & Grigori, D. Interaction System based on Internet of Things as Support for Education. Procedia Computer Science, 21, 132-139, 2013<br>
 
 
