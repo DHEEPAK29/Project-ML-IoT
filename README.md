@@ -75,14 +75,14 @@ iii): Room Temperature /Room Humidity is undesirable. iv)Motion (For necessary O
 ## VII.	PROTOTYPE DEVELOPMENT <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928089-c33d05c4-57f6-4751-ac8a-806516597e0c.png)<br>
 
-Fig.3 Prototype placed by supervisor<br>
+Fig.1 Prototype placed by supervisor<br>
   ![image](https://user-images.githubusercontent.com/83426515/165928102-9aed7824-381d-4ef1-a0c5-ba690c45cf5b.png)<br>
 
-Fig.4 Prototype with patient<br>
+Fig.2 Prototype with patient<br>
 ## VIII.	DEEP LEARNING PREDICTION <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928122-6da449db-07fb-4572-b6cb-e41e18ab05d1.png)<br>
 
-Fig.5 Patient Database<br>
+Fig.3 Patient Database<br>
 The data which are collected while monitoring the patient is stored in a database (SQL/ Firebase) and these data are further processed with a Machine learning model to predict the condition of another patient with similar ailments and provide the result of what would be the survival rate, the health condition in the process of undergoing treatment, and possible movement of the person under test.
 ## IX.	CONCLUSIONS
 Thus, A technology-based solution for Kids, Senior citizens, especially differently-abled individuals, or anyone who needs supervision is developed in such a way that it can alarm the concerned person in case the person who needs supervision is crossing a specified boundary or his/her health condition turns adverse. The solution is centered around the field of Internet of Technologies (IoT) and Deep Learning (DL), and the scope is viable in the domain of Smart Home, Security and Authentication, Automation, Data Science and Machine Learning, Data analytics.
