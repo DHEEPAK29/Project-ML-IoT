@@ -86,8 +86,8 @@ The block diagram depicted in figure 1 shows the prototype which is tied to the 
 
 Fig.2 Prototype placed by supervisor<br>
 The block diagram depicted in figure 2 shows the prototype which is placed in proximity to the patient/ Person under supervision. This part collects the data for Ambience prediction and movement prediction. This acts as a slave device to send the acknowledgment to the master.
-And as a whole, the two parts are connected to the internet such that the data is stored for monitoring, alerting, and processing.
-VIII.	PROTOTYPE DEVELOPMENT <br>
+And as a whole, the two parts are connected to the internet such that the data is stored for monitoring, alerting, and processing.<br>
+## VIII.	PROTOTYPE DEVELOPMENT <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928089-c33d05c4-57f6-4751-ac8a-806516597e0c.png)<br>
 
 Fig.3 Prototype placed by supervisor<br>
