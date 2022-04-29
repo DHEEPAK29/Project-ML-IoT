@@ -32,7 +32,7 @@ Implementation of the project in detail in the following segments:
 See also [Youtube Link For Project Demonstration](https://youtu.be/M4vS_2_sTk4)
 
 # SYNOPSIS
-ABSTRACT<br>
+- [x] ABSTRACT<br>
 INTRODUCTION<br>
 RESEARCH AREA<br>
 MOTIVATION AND SIGNIFICANCE OF WORK<br>
@@ -77,24 +77,24 @@ i) Moves above the set distance.
 ii) SpO2 /Heart Rate/Body Temperature is undesirable. 
 iii): Room Temperature /Room Humidity is undesirable. iv)Motion (For necessary Observations).
 
-# VII.	BLOCK DIAGRAM 
+# VII.	BLOCK DIAGRAM <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928053-784debb4-4411-4293-8f0b-1bad7aa98a82.png)<br>
 
 Fig.1 Prototype with patient
-The block diagram depicted in figure 1 shows the prototype which is tied to the patient/ Person under supervision. This part collects the data for health parameter observation. And this acts as the master and is in constant communication with the slave device i.e., Prototype placed by the supervisor in fig.2. 
+The block diagram depicted in figure 1 shows the prototype which is tied to the patient/ Person under supervision. This part collects the data for health parameter observation. And this acts as the master and is in constant communication with the slave device i.e., Prototype placed by the supervisor in fig.2. <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928069-123bd3a0-c81c-47aa-94b7-23b98d818ef0.png)<br>
 
 Fig.2 Prototype placed by supervisor
 The block diagram depicted in figure 2 shows the prototype which is placed in proximity to the patient/ Person under supervision. This part collects the data for Ambience prediction and movement prediction. This acts as a slave device to send the acknowledgment to the master.
 And as a whole, the two parts are connected to the internet such that the data is stored for monitoring, alerting, and processing.
-VIII.	PROTOTYPE DEVELOPMENT 
+VIII.	PROTOTYPE DEVELOPMENT <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928089-c33d05c4-57f6-4751-ac8a-806516597e0c.png)<br>
 
-Fig.3 Prototype placed by supervisor
+Fig.3 Prototype placed by supervisor<br>
   ![image](https://user-images.githubusercontent.com/83426515/165928102-9aed7824-381d-4ef1-a0c5-ba690c45cf5b.png)<br>
 
-Fig.4 Prototype with patient
-# IX.	DEEP LEARNING PREDICTION 
+Fig.4 Prototype with patient<br>
+# IX.	DEEP LEARNING PREDICTION <br>
  ![image](https://user-images.githubusercontent.com/83426515/165928122-6da449db-07fb-4572-b6cb-e41e18ab05d1.png)<br>
 
 Fig.5 Patient Database
