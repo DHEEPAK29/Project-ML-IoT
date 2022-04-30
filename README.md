@@ -1,5 +1,4 @@
-#  	Real-time-Proximity-AND-health-monitoring-cum-alert-system-with-ML-Enabled-Predicting-Model<br>
-[![Project](https://camo.githubusercontent.com/2c8911863c44b5f1bde8f97aae78bb31142c56d5b238adafb7ff906792166e42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657273696f6e2d332e302d73756363657373)](https://youtu.be/M4vS_2_sTk4)<br>
+#  	Real-time-Proximity-AND-health-monitoring-cum-alert-system-with-ML-Enabled-Predicting-Model<br> [![Project](https://camo.githubusercontent.com/2c8911863c44b5f1bde8f97aae78bb31142c56d5b238adafb7ff906792166e42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657273696f6e2d332e302d73756363657373)](https://youtu.be/M4vS_2_sTk4)<br>
  YouTube link of a Project with a Detailed demonstration - [Link](https://youtu.be/M4vS_2_sTk4) <br>
 
 # Implementation of the project in detail <br>
