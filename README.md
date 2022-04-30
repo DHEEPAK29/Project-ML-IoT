@@ -1,5 +1,5 @@
 #  	Real-time-Proximity-AND-health-monitoring-cum-alert-system-with-ML-Enabled-Predicting-Model<br>
-[![Project](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://youtu.be/M4vS_2_sTk4)
+[![Project](https://icons8.com/icon/33280/code-fork)](https://youtu.be/M4vS_2_sTk4)<br>
  YouTube link of a Project with a Detailed demonstration - [Link](https://youtu.be/M4vS_2_sTk4) <br>
 
 # Implementation of the project in detail <br>
